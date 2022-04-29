@@ -1,0 +1,6 @@
+cluster_name = "YourClusterName"
+subnet_name  = "VLAN_NAME"
+user         = "username"
+password     = "SuperSecretPassword"
+endpoint     = "IPofPCorPE"
+vmname       = "TF-"
